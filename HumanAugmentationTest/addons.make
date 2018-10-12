@@ -1,0 +1,6 @@
+ofxCenteredTrueTypeFont
+ofxCsv
+ofxFindPeaks
+ofxHumanAugmentationEngine
+ofxOsc
+ofxPubSubOsc
